@@ -1,4 +1,4 @@
-## Deploy a Simple NFT on Ethereum
+## Creating NFT (ERC721) on Ethereum using Hardhat
 
 In this project I wanted to create a basic NFT project on Ethereum. To do this, I was able to create the smart contract within VSCode. The framework for compiling and deploying the ERC721 Contract is called HardHat. 
 
